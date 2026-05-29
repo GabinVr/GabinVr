@@ -23,7 +23,7 @@ My work sits at the intersection of **multimodal learning**, **generative models
 ## 📍 Currently
 
 - 🎓 Finishing my double degree (ENSICAEN × UQAC)
-- 🔬 Building Music-CLAP — a domain-specific audio-text joint embedding model
+- 🔬 Building AFDM-Personalized - A facial privacy framework
 - 🔍 **Looking for a 6-month R&D internship** starting September 2026.
 Interests: generative models, vision, multimodal AI.
 
